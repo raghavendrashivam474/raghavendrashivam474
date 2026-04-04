@@ -75,6 +75,13 @@
 
 ---
 
+## 🧪 Experiments
+
+- Comparing Firebase vs Supabase vs Appwrite for auth systems  
+- Exploring scalable backend patterns
+
+---
+
 ## 📈 Current Focus
 
 * 🚀 Scaling projects to real users
