@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Raghavendra
 
-🚀 Developer focused on building real-world systems in **healthcare, productivity, and social platforms**
-💡 Passionate about solving problems for **middle-class India through scalable technology**
-
+🚀 Building scalable systems in **healthcare & productivity**  
+💡 Focused on solving real-world problems for **middle-class India**  
+⚡ Turning ideas into **usable, impactful products**
 ---
 
 ## 🧠 Core Domains
