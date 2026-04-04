@@ -5,38 +5,14 @@
 ⚡ Turning ideas into **usable, impactful products**
 
 ---
-## 🧠 Core Domains
+## 🧠 Overview
 
-🔹 **Healthcare Tech**
-* QR-based Personal Health Record (PHR) systems
-* Emergency-access medical infrastructure
-
-🔹 **Productivity Systems**
-* Smart Form Auto Filling
-* Data reuse & automation engines
-
-🔹 **Social Platforms**
-* Hyperlocal anonymous campus engagement systems
-
-🔹 **Full Stack Development**
-* Scalable APIs, authentication systems, cloud deployment
----
-## 🚀 Featured Systems
-
-### 🏥 Hospital PHR System
-→ QR-based emergency health record access  
-→ Enables instant life-saving data retrieval  
-→ Designed for real-world hospital use cases  
-
-### 📄 Smart Form Auto Filler
-→ Fill forms once, reuse everywhere  
-→ Reduces repetitive data entry  
-→ Built for students & job applicants  
-
-### 🧑‍🤝‍🧑 Campus Feed
-→ Anonymous hyperlocal social platform  
-→ Real-time interaction within college communities  
-
+| 🧠 Core Domains                                                           | 🚀 Featured Systems                                                                          |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Healthcare Tech**<br>• QR-based PHR systems<br>• Emergency access infra | **🏥 Hospital PHR**<br>• QR-based emergency access<br>• Instant patient data retrieval       |
+| **Productivity Systems**<br>• Smart form autofill<br>• Data reuse engines | **📄 Smart Form Auto Filler**<br>• Fill once, reuse everywhere<br>• Reduces repetitive entry |
+| **Social Platforms**<br>• Anonymous campus systems                        | **🧑‍🤝‍🧑 Campus Feed**<br>• Anonymous interaction<br>• Real-time engagement                |
+| **Full Stack Dev**<br>• APIs, auth, deployment                            | **⚙️ Tech Focus**<br>• Scalable systems<br>• Backend architecture                       
 ---
 ## ⚙️ Technical Expertise
 
