@@ -20,10 +20,10 @@
 - Focused on real-world usability and impact  
 - Experience with Firebase, Supabase & Appwrite  
 - Deployed apps on Render & Vercel  
-- Currently scaling projects to real users  
+- Scaling projects to real users 
 ---
 ## 🎯 Vision
-Building impactful digital systems for healthcare and everyday use.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Building impactful digital systems for healthcare and real-world use.
+
 ⭐ *"Building systems that matter."*
 ---
