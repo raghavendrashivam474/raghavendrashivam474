@@ -7,22 +7,15 @@
 ---
 ## 🧠 Overview
 
-| 🧠 Core Domains                                                           | 🚀 Featured Systems                                                                          |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Healthcare Tech**<br>• QR-based PHR systems<br>• Emergency access infra | **🏥 Hospital PHR**<br>• QR-based emergency access<br>• Instant patient data retrieval       |
-| **Productivity Systems**<br>• Smart form autofill<br>• Data reuse engines | **📄 Smart Form Auto Filler**<br>• Fill once, reuse everywhere<br>• Reduces repetitive entry |
-| **Social Platforms**<br>• Anonymous campus systems                        | **🧑‍🤝‍🧑 Campus Feed**<br>• Anonymous interaction<br>• Real-time engagement                |
-| **Full Stack Dev**<br>• APIs, auth, deployment                            | **⚙️ Tech Focus**<br>• Scalable systems<br>• Backend architecture                       
----
-## ⚙️ Technical Expertise
+## 🚀 Systems & Engineering Map
 
-* 📱 **Mobile Development:** Flutter, React Native
-* 🌐 **Frontend & Deployment:** Vercel, Firebase Hosting
-* 🧠 **Backend Systems:** Node.js, Express
-* 🔐 **Authentication & BaaS:** Firebase Auth, Supabase, Appwrite (Auth & DB)
-* 🗄 **Databases:** MongoDB, Firestore, PostgreSQL (Supabase)
-* ☁️ **Deployment & Cloud:** Render, Vercel, Firebase
-* 🔄 **System Design:** Modular architecture, scalable APIs
+| 🧠 Problem Domain                                                          | 🚀 System Built                                                  | ⚙️ Tech Used                                         |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------- |
+| **Healthcare Access**<br>Emergency patient data is not instantly available | **🏥 Hospital PHR**<br>QR-based system for instant record access | React Native, Node.js, MongoDB, Firebase/Supabase    |
+| **Repetitive Form Filling**<br>Users repeatedly enter same data            | **📄 Smart Form Auto Filler**<br>Reuse personal data & documents | Flutter, Firebase, Local Storage, Parsing Logic      |
+| **Campus Communication Gap**<br>No safe anonymous interaction space        | **🧑‍🤝‍🧑 Campus Feed**<br>Hyperlocal anonymous social platform | Flutter, Firebase (Auth + Realtime DB)               |
+| **System Scalability**<br>Need robust backend & deployment                 | **⚙️ Backend Systems**<br>APIs, auth flows, deployment pipelines | Node.js, Express, Supabase, Appwrite, Vercel, Render |
+
 ---
 ## 🚀 Why Me
 
