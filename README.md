@@ -65,6 +65,15 @@ A **hyperlocal social platform** enabling anonymous interaction, discussions, an
 
 ---
 
+## 📊 Impact & Proof
+
+- 🚀 Built multiple full-stack applications with real-world use cases  
+- 🔐 Implemented authentication using Firebase, Supabase & Appwrite  
+- ☁️ Deployed production-ready apps on Render & Vercel  
+- 📱 Developed cross-platform mobile apps using Flutter & React Native  
+
+---
+
 ## 📈 Current Focus
 
 * 🚀 Scaling projects to real users
