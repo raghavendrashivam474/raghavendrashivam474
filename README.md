@@ -30,17 +30,18 @@
 ## 🚀 Featured Systems
 
 ### 🏥 Hospital PHR System
-
-A **QR-based digital health infrastructure** enabling instant access to patient records during emergencies.
-Includes secure staff access, cloud storage, and real-time data retrieval.
+→ QR-based emergency health record access  
+→ Enables instant life-saving data retrieval  
+→ Designed for real-world hospital use cases  
 
 ### 📄 Smart Form Auto Filler
-
-An intelligent system that **eliminates repetitive form filling** by reusing structured personal data and documents.
+→ Fill forms once, reuse everywhere  
+→ Reduces repetitive data entry  
+→ Built for students & job applicants  
 
 ### 🧑‍🤝‍🧑 Campus Feed
-
-A **hyperlocal social platform** enabling anonymous interaction, discussions, and engagement within college communities.
+→ Anonymous hyperlocal social platform  
+→ Real-time interaction within college communities  
 
 ---
 
