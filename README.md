@@ -4,8 +4,6 @@
 💡 Focused on solving real-world problems for **middle-class India**  
 ⚡ Turning ideas into **usable, impactful products**
 ---
-## 🧠 Overview
-
 ## 🚀 Systems & Engineering Map
 
 | 🧠 Problem Domain                                                          | 🚀 System Built                                                  | ⚙️ Tech Used                                         |
