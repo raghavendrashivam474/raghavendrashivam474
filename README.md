@@ -32,7 +32,6 @@ Real-time smart campus simulation and visualization platform.
 - Startup Building
 
 ## Philosophy
-
-Build useful products.
-Ship fast.
-Learn continuously.
+Ideas are cheap.
+Execution matters.
+Build systems people use.
