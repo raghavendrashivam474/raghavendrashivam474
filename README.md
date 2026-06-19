@@ -1,29 +1,38 @@
-# 👋 Hi, I'm Raghavendra
+# 👋 Hi, I'm Raghavendra Singh
 
-🚀 Building scalable systems in **healthcare & productivity**  
-💡 Focused on solving real-world problems for **middle-class India**  
-⚡ Turning ideas into **usable, impactful products**
----
-## 🚀 Systems & Engineering Map
+Engineering Student • Full-Stack Developer • Product Builder
 
-| 🧠 Problem Domain                                                          | 🚀 System Built                                                  | ⚙️ Tech Used                                         |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------- |
-| **Healthcare Access**<br>Emergency data not instantly accessible | **🏥 Hospital PHR**<br>QR-based system for instant emergency health record access | React Native, Node.js, MongoDB, Firebase/Supabase    |
-| **Repetitive Form Filling**<br>Users repeatedly enter same data            | **📄 Smart Form Auto Filler**<br>Reuse personal data across forms | Flutter, Firebase, Local Storage, Parsing Logic      |
-| **Campus Communication Gap**<br>No safe anonymous interaction space        | **🧑‍🤝‍🧑 Campus Feed**<br>Hyperlocal anonymous social platform | Flutter, Firebase (Auth + Realtime DB)               |
-| **System Scalability**<br>Need robust backend & deployment                 | **⚙️ Backend Systems**<br>APIs, auth flows, deployment pipelines | Node.js, Express, Supabase, Appwrite, Vercel, Render |
----
-## 🚀 Why Me
+I enjoy building software products that combine:
 
-- I build systems, not just projects
-- Strong in full-stack system design (mobile + backend)
-- Focused on real-world usability and impact  
-- Experience with Firebase, Supabase & Appwrite  
-- Deployed apps on Render & Vercel  
-- Scaling projects to real users 
----
-## 🎯 Vision
-Building impactful digital systems for healthcare and real-world use.
+🎵 Creativity
+🏫 Education
+🤖 Artificial Intelligence
+🌐 Digital Infrastructure
 
-⭐ *"Building systems that matter."*
----
+## Currently Building
+
+🎵 VibeFlow
+Adaptive music journey platform.
+
+🏫 GradeFlow
+Academic management ecosystem for institutions.
+
+✍️ Syaahi
+Platform for poetry, journals, letters, and human expression.
+
+🌐 Digital Twin Campus
+Real-time smart campus simulation and visualization platform.
+
+## Interests
+
+- Product Engineering
+- Full-Stack Systems
+- AI Applications
+- Scalable Architecture
+- Startup Building
+
+## Philosophy
+
+Build useful products.
+Ship fast.
+Learn continuously.
