@@ -2,7 +2,7 @@
 
 Engineering Student • Full-Stack Developer • Product Builder
 
-I build software systems and products across AI, developer intelligence, education, and digital infrastructure.
+I build software systems and products across AI, developer intelligence, knowledge, and digital infrastructure.
 
 ## 🚀 Currently Building
 
@@ -10,7 +10,7 @@ I build software systems and products across AI, developer intelligence, educati
 Local-first AI backend framework for modular LLM applications.
 
 ### 🔍 Aryntra Anveksha
-AI-powered intelligence system focused on understanding and learning from organizational knowledge.
+AI-powered intelligence system for understanding, organizing, and learning from organizational knowledge.
 
 ### 🕵️ Aryntra Backtrace
 Failure Intelligence System for evidence-backed investigation, learning from past failures, and prevention.
@@ -21,7 +21,7 @@ Developer intelligence platform for understanding relationships, capabilities, i
 ### 🧠 Aryntra Synapse
 Research-oriented AI system exploring intelligent knowledge and reasoning workflows.
 
-## Interests
+## 🧩 Interests
 
 - Product Engineering
 - Full-Stack Systems
@@ -31,11 +31,12 @@ Research-oriented AI system exploring intelligent knowledge and reasoning workfl
 - Human-Centered Software
 - Startup Building
 
-## Philosophy
+## 💭 Philosophy
 
-Ideas are cheap.
+Ideas are cheap.  
 Execution matters.
 
-Build systems that solve real problems.
-Keep learning.
-Keep building.
+Build systems that solve real problems.  
+Learn deeply.  
+Build deliberately.  
+Keep shipping.
