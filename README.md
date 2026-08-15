@@ -2,36 +2,40 @@
 
 Engineering Student • Full-Stack Developer • Product Builder
 
-I enjoy building software products that combine:
+I build software systems and products across AI, developer intelligence, education, and digital infrastructure.
 
-🎵 Creativity
-🏫 Education
-🤖 Artificial Intelligence
-🌐 Digital Infrastructure
+## 🚀 Currently Building
 
-## Currently Building
+### 🧠 Aryntra Tarka
+Local-first AI backend framework for modular LLM applications.
 
-🎵 VibeFlow
-Adaptive music journey platform.
+### 🔍 Aryntra Anveksha
+AI-powered intelligence system focused on understanding and learning from organizational knowledge.
 
-🏫 GradeFlow
-Academic management ecosystem for institutions.
+### 🕵️ Aryntra Backtrace
+Failure Intelligence System for evidence-backed investigation, learning from past failures, and prevention.
 
-✍️ Syaahi
-Platform for poetry, journals, letters, and human expression.
+### ⚡ Pulse
+Developer intelligence platform for understanding relationships, capabilities, impact, and evolution within software systems.
 
-🌐 Digital Twin Campus
-Real-time smart campus simulation and visualization platform.
+### 🧠 Aryntra Synapse
+Research-oriented AI system exploring intelligent knowledge and reasoning workflows.
 
 ## Interests
 
 - Product Engineering
 - Full-Stack Systems
-- AI Applications
-- Scalable Architecture
+- Artificial Intelligence
+- Developer Intelligence
+- System Architecture
+- Human-Centered Software
 - Startup Building
 
 ## Philosophy
+
 Ideas are cheap.
 Execution matters.
-Build systems people use.
+
+Build systems that solve real problems.
+Keep learning.
+Keep building.
