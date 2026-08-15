@@ -15,7 +15,7 @@ AI-powered intelligence system focused on understanding and learning from organi
 ### 🕵️ Aryntra Backtrace
 Failure Intelligence System for evidence-backed investigation, learning from past failures, and prevention.
 
-### ⚡ Pulse
+### 📐 Aryntra Aayaam
 Developer intelligence platform for understanding relationships, capabilities, impact, and evolution within software systems.
 
 ### 🧠 Aryntra Synapse
