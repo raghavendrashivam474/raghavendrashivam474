@@ -1,42 +1,53 @@
 # 👋 Hi, I'm Raghavendra Singh
 
-Engineering Student • Full-Stack Developer • Product Builder
+**Engineering Student • Software Engineer • Product Builder**
 
-I build software systems and products across AI, developer intelligence, knowledge, and digital infrastructure.
+I build software systems and products across **AI, intelligent computing, distributed systems, and digital infrastructure**.
 
 ## 🚀 Currently Building
 
-### 🧠 Aryntra Tarka
-Local-first AI backend framework for modular LLM applications.
+### 🧭 NAV
 
-### 🔍 Aryntra Anveksha
-AI-powered intelligence system for understanding, organizing, and learning from organizational knowledge.
+Intelligent navigation and interaction layer for personal computing, focused on understanding intent, context, capabilities, and actions across the local environment.
 
-### 🕵️ Aryntra Backtrace
-Failure Intelligence System for evidence-backed investigation, learning from past failures, and prevention.
+### 🤖 Zarya
 
-### 📐 Aryntra Aayaam
-Developer intelligence platform for understanding relationships, capabilities, impact, and evolution within software systems.
+Personal local-computing companion and desktop-agent platform for interacting with computers, applications, files, development environments, local services, and everyday workflows.
+
+### 🌐 Shyam
+
+Personal computing ecosystem and orchestration layer connecting independent computing capabilities through a local-first and decentralized architecture.
+
+### ⚡ Aryntra Flux
+
+Hybrid distributed file-sharing and connectivity fabric for fast, efficient, and resilient device-to-device communication.
+
+### 👁️ Aryntra Veyra
+
+Visual-character intelligence system exploring **reference image → character perception → structured representation → character generation**.
 
 ### 🧠 Aryntra Synapse
-Research-oriented AI system exploring intelligent knowledge and reasoning workflows.
+
+Research-oriented AI system exploring **knowledge representation, retrieval, reasoning, and context engineering**.
 
 ## 🧩 Interests
 
-- Product Engineering
-- Full-Stack Systems
-- Artificial Intelligence
-- Developer Intelligence
-- System Architecture
-- Human-Centered Software
-- Startup Building
+* Artificial Intelligence
+* Personal Computing
+* Distributed Systems
+* Developer Intelligence
+* Knowledge & Reasoning Systems
+* System Architecture
+* Full-Stack Engineering
+* Product Engineering
+* Digital Infrastructure
+* Research & Experimental Computing
 
 ## 💭 Philosophy
 
-Ideas are cheap.  
-Execution matters.
+> **Ideas are cheap. Execution matters.**
 
-Build systems that solve real problems.  
-Learn deeply.  
-Build deliberately.  
+Build systems that solve real problems.
+Learn deeply.
+Build deliberately.
 Keep shipping.
