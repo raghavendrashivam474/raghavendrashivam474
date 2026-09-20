@@ -6,20 +6,6 @@ I build software systems and products across **AI, intelligent computing, distri
 
 ---
 
-## 📊 Analytics & Profile Card
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendrashivam474&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://githubcard.com/raghavendrashivam474.svg" alt="My Profile Card" />
-</p>
-
----
-
 ## 🚀 Currently Building
 
 ### 🧭 NAV
